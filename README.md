@@ -2,7 +2,11 @@
 🎓 NCCU – Master Student 
 WSM Final Project：RAG pipeline (BM25 + Dynamic Chunker) Local LLM (Ollama, Granite, Phi-3) 中文動態 Chunker 設計：自動切分＋細粒度中文切片 負責 RAG 斷詞、chunking、retriever 效能優化
 
-🛠 Tech Stack Python | Sentence-BERT | 
+🛠️ Tech Stack
+- Backend：Python | FastAPI | SQLite
+- Frontend：Next.js | React | Tailwind CSS
+- AI / NLP：RAG | BM25 | Ollama | Sentence-BERT
+- Tools：Docker | Git | pytest
 
 🌱 Currently Learning RAG evaluation methods Embedding search Tokenizer & chunker設計
 
